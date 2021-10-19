@@ -1,5 +1,3 @@
-﻿
-	
 	Loop {
 		WinActivate, Roblox
         	MouseClick, left,  1001,  366
